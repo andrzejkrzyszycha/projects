@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mousey-App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Mousey-App.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
